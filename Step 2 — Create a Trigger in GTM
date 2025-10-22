@@ -1,0 +1,4 @@
+Go to Triggers → New → Custom Event
+Event Name: lead_submit
+Choose All Custom Events
+Save and name your trigger: Lead Submit Trigger
