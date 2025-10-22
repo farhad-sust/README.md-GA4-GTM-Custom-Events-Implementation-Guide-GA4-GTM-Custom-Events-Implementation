@@ -1,0 +1,4 @@
+Enable Preview Mode in GTM
+Perform the event on your website
+Check GA4 → Admin → DebugView
+Verify that your event fires with correct parameters
