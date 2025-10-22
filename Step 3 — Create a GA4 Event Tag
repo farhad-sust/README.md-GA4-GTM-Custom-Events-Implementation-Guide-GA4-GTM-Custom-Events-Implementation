@@ -1,0 +1,9 @@
+Go to Tags → New → GA4 Event Tag
+Tag Type: GA4 Event
+Configuration Tag: (Select your GA4 config tag)
+Event Name: lead_submit
+Event Parameters:
+  Parameter Name-----------Value Type------------Example Value
+  event_category----------{{event_category}}-----Lead Form
+  event_label-------------{{event_label}}--------Book Button
+Trigger: Lead Submit Trigger
