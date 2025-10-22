@@ -1,0 +1,11 @@
+<script>
+  document.querySelector('#book-demo-btn').addEventListener('click', function() {
+    window.dataLayer = window.dataLayer || [];
+    window.dataLayer.push({
+      event: 'lead_submit',
+      event_category: 'Lead Form',
+      event_label: 'Book Demo Button',
+      value: 1
+    });
+  });
+</script>
